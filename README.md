@@ -20,6 +20,8 @@ Some images used in this project are sourced from **online image repositories** 
 
 You can open the `index.html` file in any modern browser to view the portfolio.
 
+my url web portfolio is: https://estherdev-ops.github.io/my-web-portfolio/
+
 To clone this repo:
 git clone https://github.com/EstherDev-ops/my-web-portfolio.git
 
